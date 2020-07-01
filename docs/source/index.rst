@@ -27,3 +27,4 @@ Contents
    getting-started
    prjxray/index
    development/development
+   sim_models/index
