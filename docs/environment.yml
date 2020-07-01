@@ -1,0 +1,14 @@
+name: symbiflow-arch-defs
+channels:
+  - symbiflow
+  - conda-forge
+  - defaults
+dependencies:
+  - pygobject
+  - cairo
+  - pango
+  - yosys
+  - netlistsvg
+  - pip
+  - pip:
+    - -r file:requirements.txt

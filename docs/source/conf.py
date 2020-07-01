@@ -33,6 +33,8 @@
 extensions = [
     'sphinx.ext.autodoc',
     'sphinxcontrib.images',
+    'symbolator_sphinx',
+    'sphinxcontrib_verilog_diagrams'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
